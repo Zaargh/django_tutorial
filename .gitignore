@@ -50,3 +50,9 @@ Temporary Items
 *.pyc
 mysite/db.sqlite3
 mysite/db.sqlite3
+/venv/
+.idea/
+mysite/mysite/__pycache__/
+mysite/polls/__pycache__/
+mysite/polls/migrations/__pycache__/
+venv/
